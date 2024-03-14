@@ -1,0 +1,9 @@
+{
+	"name": "HProjectdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "575cf899-9e53-4ccc-a070-499c280e8a0b",
+		"tenantId": "5feba436-e840-4cde-a95e-5563f7f1756b"
+	}
+}
